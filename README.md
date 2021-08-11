@@ -1,4 +1,4 @@
-# Stock-Price-Prediction
+## Stock Price Prediction
 
 _It uses Long Short Term Memory(LSTM) to predict the closing stock price of a corporation using the past 60 days stock price._<br/>
 _Didn't expect this but it gives an average **accuracy of 80%:fire::fire:!!**_ :exploding_head:
